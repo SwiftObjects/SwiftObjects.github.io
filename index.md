@@ -5,8 +5,10 @@ tags: xcode swift server side webobjects
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/swift-4-blue.svg" />
+  <img src="https://img.shields.io/badge/swift-4.2-blue.svg" />
+  <img src="https://img.shields.io/badge/swift-5-blue.svg" />
   <img src="https://img.shields.io/badge/os-macOS-green.svg?style=flat" />
+  <img src="https://img.shields.io/badge/os-tuxOS-green.svg?style=flat" />
   <img src="https://img.shields.io/homebrew/v/cake.svg" />
   <img src="https://travis-ci.org/SwiftObjects/SwiftObjects.svg?branch=develop" />
 </p>
@@ -24,6 +26,9 @@ This is part of a blog entry, called:
 [An Introduction to WebObjects, in Swift](http://www.alwaysrightinstitute.com/wo-intro/).
 
 ## Install
+
+Note: The swift-xcode image now requires Xcode 10.2.
+      Plain SPM compiles work with older versions.
 
 <a href="https://swiftxcode.github.io" target="extlink"><img src="http://zeezide.com/img/SwiftXcodePkgIcon.svg"
      align="right" width="86" height="86" style="padding: 0 0 0.5em 0.5em;" /></a>
